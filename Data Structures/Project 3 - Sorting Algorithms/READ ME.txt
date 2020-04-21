@@ -1,0 +1,9 @@
+Sort.java by Jacob Rothman
+
+Launch the executable jar files as you see fit; I personally recommend using a Linux terminal.
+
+Upon Execution, the Program will Run Different Sorting Methods (Bubble, Insertion, Merge, Selection, Quick) on randomly Generated Data Sets. 
+To change the size of the data sets, access the switch cases on lines 28,32,36,40, and 44 or add a new switch case.
+If adding new switch case, change MAXTESTS on line 10 to represent the number of cases.
+
+The program will cycle through each data set for each sorting method until each method has sorted each set. Times are recorded and printed in console.

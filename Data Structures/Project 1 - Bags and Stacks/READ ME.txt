@@ -1,0 +1,13 @@
+Created by Jacob Rothman
+
+
+Please launch these executable jar files as you see fit; I would personally recommend using a Linux terminal.
+
+Linux Instructions:
+- Launch Terminal
+- Navigate the Path to the directory of the jar files
+- Execute $java -jar [FILENAME]
+- Follow Instructions as Prompted.
+- All Stacks Accept Any Permutation of AlphaNumeric Characters, +, - ,/, *, {}, [], and ()
+- All Bags Will Accept Strings for All Fields Except Student ID, which requires an Integer
+	- For Academic Standing Enter "Freshman", "Sophomore", "Junior", or "Senior"
